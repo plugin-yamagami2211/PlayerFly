@@ -1,0 +1,12 @@
+#
+# PlayerFly Config File
+# Config ver : 1.0
+#
+
+MSG:
+  flyOn: "&6飛行状態を有効にしました"
+  flyOff: "&9飛行状態を解除しました"
+  NoPex: "&4権限がありません"
+
+#アップデートチェック
+Update: true

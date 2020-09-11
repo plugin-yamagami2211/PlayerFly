@@ -1,0 +1,4 @@
+name: PlayerFly
+version: ${project.version}
+main: me.yama2211.pf.Main
+api-version: 1.16
