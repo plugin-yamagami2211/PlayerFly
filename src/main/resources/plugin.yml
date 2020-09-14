@@ -2,3 +2,13 @@ name: PlayerFly
 version: ${project.version}
 main: me.yama2211.pf.Main
 api-version: 1.16
+
+commands:
+  fly:
+    permission: plwhois.use
+    description: playerfly.use
+    usage: /<command> args
+permissions:
+  playerfly.use:
+    description: command permission
+    default: op
